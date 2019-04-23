@@ -1,0 +1,32 @@
+h2{
+			font-size: 20px;
+			font-family: monospace;
+			font-style: italic;
+			color: grey;
+			background-color: lightpink;
+			border-style: double;
+			outline-style: inset;
+		}
+		i{
+			color: red;
+			font-size: 40px;
+		}
+		.biru{
+			color: blue;
+
+		}
+		.italic{
+			font-style: italic;
+			font-family: serif;
+
+		}
+		.grad {
+            background-image: linear-gradient(to bottom right, yellow, red);
+            font-size: 40px;
+            alignment-baseline: central;
+            text-shadow: 9px 8px 5px purple;
+		}
+		.coding{
+			font-family: serif;
+			background-color: green
+		}
