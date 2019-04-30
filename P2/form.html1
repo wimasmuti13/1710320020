@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>From dengan CSS</title>
+	<link rel="stylesheet" href="assets/CSS/bootstrap.CSS">
+</head>
+<body>
+	<from action="proses".php">
+		<tabel class="col-sm-2">Nim mahasiswa</tabel>
+		<div  class="col-sm-2">
+			<input type="number" name="1800330011" class="form-control">
+		</div>
+		<div class="col-sm-4">
+		<input  type=_"file"_ name="poto">
+		</div>
+		<div class="col-sm-2">
+		<button type="button" class="btn btn-primary btn-sm">
+			simpan
+		</button>
+		</div>
+			</from>
+
+		</body>
+		</html>
+
+
